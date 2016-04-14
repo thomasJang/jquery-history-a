@@ -1,0 +1,21 @@
+﻿{
+    "name": "jquery-history",
+    "version": "1.5.0",
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "gulp": "*",
+        "gulp-changed": "*",
+        "gulp-concat": "*",
+        "gulp-uglify": "^1.5.1",
+        "js-beautify": "^1.5.10",
+        "gulp-plumber": "",
+        "gulp-notify": "",
+        "gulp-sourcemaps": "",
+        "gulp-util": "*",
+        "gulp-clean": ""
+    }
+}
