@@ -21,9 +21,9 @@ function errorAlert(error) {
 gulp.task('js', function () {
     gulp.src('src/*.js')
         .pipe(plumber({errorHandler: errorAlert}))
-        .pipe(concat('jquery.history.js'))
+        .pipe(concat('jquery.history-a.js'))
         .pipe(gulp.dest('dist'))
-        .pipe(concat('jquery.history.min.js'))
+        .pipe(concat('jquery.history-a.min.js'))
         .pipe(uglify())
         .pipe(gulp.dest('dist'));
 });

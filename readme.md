@@ -11,8 +11,8 @@ forked from https://github.com/balupton/jquery-history
 
 ## Install
 ```
-npm install jquery-history
-bower install jquery-history
+npm install jquery-history-a
+bower install jquery-history-a
 ```
 
 ## Examples
@@ -24,7 +24,7 @@ bower install jquery-history
     <title>jquery-history</title>
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
     <script src="bower_components/ax5core/dist/ax5core.min.js"></script>
-    <script src="../dist/jquery.history.js"></script>
+    <script src="../dist/jquery.history-a.js"></script>
 </head>
 <body style="padding: 20px;">
 <div id="demo">
