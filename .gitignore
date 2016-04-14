@@ -6,5 +6,3 @@ node_modules
 *.ignore.js
 *.iml
 .DS_Store
-**/test/bower_components
-_git
