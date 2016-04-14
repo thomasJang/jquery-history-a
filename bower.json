@@ -1,0 +1,20 @@
+{
+  "name": "jquery-history",
+  "version": "1.0.0",
+  "authors": [
+    "ThomasJ <tom@axisj.com>"
+  ],
+  "description": "",
+  "keywords": [
+    "jquery",
+    "ax5core",
+    "hash-change",
+    "jquery-history"
+  ],
+  "dependencies": {
+    "jquery": "^1.11.0",
+    "ax5core": ""
+  },
+  "license": "MIT",
+  "homepage": "ax5.io"
+}
