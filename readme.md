@@ -9,6 +9,12 @@ forked from https://github.com/balupton/jquery-history
 > * _[jQuery 1.X+](http://jquery.com/)_
 > * _[ax5core](http://ax5.io)
 
+## Install
+```
+npm install jquery-history
+bower install jquery-history
+```
+
 ## Examples
 ```html
 <!DOCTYPE html>
